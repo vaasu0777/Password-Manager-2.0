@@ -159,7 +159,7 @@ Contributions, issues, and feature requests are welcome! Feel free to:
 
 <div align="center">
 
-Made with ❤️ by [mrdcvlsc](https://github.com/mrdcvlsc)
+Made with ❤️ by [Vaasu Gagneja](https://github.com/mrdcvlsc)
 
 ⭐ Star this repo if you found it helpful!
 
